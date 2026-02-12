@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "tamersslowprogmod:flint_shard"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "tamersslowprogmod:flint_shovel_head"
+  }
+}

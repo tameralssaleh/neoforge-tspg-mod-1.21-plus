@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "tamersslowprogmod:flint_sword_blade"
+    },
+    "P": {
+      "item": "tamersslowprogmod:plant_string"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "FP",
+    "S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "tamersslowprogmod:flint_sword"
+  }
+}

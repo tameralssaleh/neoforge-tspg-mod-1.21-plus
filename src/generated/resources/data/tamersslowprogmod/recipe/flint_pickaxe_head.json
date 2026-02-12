@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "tamersslowprogmod:flint_shard"
+    }
+  },
+  "pattern": [
+    "FFF"
+  ],
+  "result": {
+    "count": 1,
+    "id": "tamersslowprogmod:flint_pickaxe_head"
+  }
+}

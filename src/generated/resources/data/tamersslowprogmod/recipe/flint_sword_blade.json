@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "tamersslowprogmod:flint_shard"
+    }
+  },
+  "pattern": [
+    "F",
+    "F"
+  ],
+  "result": {
+    "count": 1,
+    "id": "tamersslowprogmod:flint_sword_blade"
+  }
+}
